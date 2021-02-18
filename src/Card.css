@@ -1,0 +1,12 @@
+.Card {
+    display: grid;
+    gap: 20px;
+    background-color: #eee;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.Button {
+    padding: 10px;
+    border-radius: 5px;
+}
